@@ -6,7 +6,7 @@ char *broker = "io.adafruit.com";
 char *username = "warmachine7";
 int l1 = 16, l2 = 5, l3 = 4;
 int r1 = 0, r2 = 2, r3 = 14;
-char *keypass  = "aio_CLGE38odE4IJaFSDel5bxAhaQ4QS";
+char *keypass  = "";
 char msg[10];
 char offlaunch[] = {"OFF"};
 char rocketoff[] = {"OFF3"};
